@@ -499,8 +499,8 @@
     "_isResetOnRevisit": "soft",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "What is the estimated 5-year survival rate for black patients with melanoma?",
-    "displayTitle": "What is the estimated 5-year survival rate for black patients with melanoma?",
+    "title": "What is the estimated 5-year survival rate for African American patients with melanoma?",
+    "displayTitle": "What is the estimated 5-year survival rate for African American patients with melanoma?",
     "body": "",
     "_id": "60be4a64418dc91c9da548e3",
     "_parentId": "60be4a64418dc91c9da548d6",
@@ -596,7 +596,7 @@
       {
         "title": "When should you get a skin spot checked by the doctor?",
         "_ariaLevel": 0,
-        "body": "<p>You should get a skin spot checked by the doctor if the size is larger than a pencil eraser!&nbsp;</p>",
+        "body": "<p>You should get a skin spot checked by the doctor if the size is <u>larger than a pencil eraser</u>!&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/429cf94cd0b7f64e589f4a96b95e4bf871a7b2c0.jpg",
           "alt": "",
@@ -607,7 +607,7 @@
       {
         "title": "When is it best to check a client’s hair for melanoma?  ",
         "_ariaLevel": 0,
-        "body": "<p>The best time to check a client's hair for a skin lesion is when it is wet!&nbsp;</p>",
+        "body": "<p>The best time to check a client's hair for a skin lesion is when it is <u>wet</u>!&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/2b4b0246e710394d9b561f279d3f32c57e26327e.jpg",
           "alt": "",
