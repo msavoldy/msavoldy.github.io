@@ -1,0 +1,674 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Use Your ABCDEs!",
+    "displayTitle": "Use Your ABCDEs!",
+    "body": "<p>A: Asymmetry&nbsp;</p><p>B: Borders&nbsp;</p><p>C: Color&nbsp;</p><p>D: Diameter&nbsp;</p><p>E: Evolution</p>",
+    "_id": "60be4a64418dc91c9da548d9",
+    "_parentId": "60be4a64418dc91c9da548cd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b91d7dd655fa9af73555c344756ad5bfaf724a61.png",
+      "small": "course/en/assets/b91d7dd655fa9af73555c344756ad5bfaf724a61.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Skin Cancers ",
+    "displayTitle": "Skin Cancers ",
+    "body": "",
+    "_id": "60be4a64418dc91c9da548da",
+    "_parentId": "60be4a64418dc91c9da548ce",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Squamous Cell Carcinoma",
+        "body": "<ul><li>Appear as persistent, thick, rough, scaly patches that may bleed</li><li>They often look like warts and are the most common type of skin cancer in African&nbsp;Americans</li></ul>",
+        "_graphic": {
+          "alt": "Squamous Cell Carcinoma ",
+          "src": "course/en/assets/b400ed12fbc55e2bfa99923b4b18dc4cff5152bf.png",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Basal Cell Carcinoma",
+        "body": "<ul><li>Often look like open sores, red patches, pink growths, shiny bumps, or scars&nbsp;</li><li>Looks like something you could pop with a needle</li></ul>",
+        "_graphic": {
+          "alt": "Basal Cell Carcinoma",
+          "src": "course/en/assets/6ed55d566cf9f39fd4c186b639382b1a1d609dd3.png",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Asymmetry, Borders, Color, Diameter, Evolution",
+    "displayTitle": "Asymmetry, Borders, Color, Diameter, Evolution",
+    "body": "",
+    "_id": "60be4a64418dc91c9da548db",
+    "_parentId": "60be4a64418dc91c9da548cb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Asymmetry",
+        "body": "<p>One half is unlike the other</p>",
+        "_graphic": {
+          "alt": "Asymmetry",
+          "src": "course/en/assets/db8b81e3fb807985da20c8b4b15a6536ebf60313.png",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Borders",
+        "body": "<p>Edges are irregular, notched, or blurred.&nbsp;</p><p>Normal moles are round or oval.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/78573dffcedb692597c7d233e39e5c40ff7b9d97.png",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Color",
+        "body": "<p>Lesion is not evenly colored. Can include&nbsp;different shades of brown or black, or patches&nbsp;of pink, red, white, or blue.</p>",
+        "_graphic": {
+          "alt": "Color",
+          "src": "course/en/assets/48f489cf9a21316c4c2c39841776be4cbda2991c.png",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Diameter ",
+        "body": "<p>Lesion is larger than 6 mm across.</p>",
+        "_graphic": {
+          "alt": "Diameter > 6mm ",
+          "src": "course/en/assets/1722c9ff52fcd80702d866c8c0f18f0f47c37eec.png",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Evolution",
+        "body": "<p>Mole has noticeably changed in size, shape,&nbsp;or color over time.</p>",
+        "_graphic": {
+          "alt": "Evolution ",
+          "src": "course/en/assets/cdc11bec1d5f18f5cdfe38d3ae207f1c52ea33db.png",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Melanoma ",
+    "displayTitle": "Melanoma ",
+    "body": "<p>Melanoma on the sole of the foot of a black male. Courtesy of Calvin McCall, MD.&nbsp;</p>",
+    "_id": "60be4a64418dc91c9da548dc",
+    "_parentId": "60be4a64418dc91c9da548cf",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/377578efc509263e0b48d38c4cbf50c9ce0e486c.jpg",
+      "small": "course/en/assets/377578efc509263e0b48d38c4cbf50c9ce0e486c.jpg",
+      "attribution": "Gloster HM Jr, Neal K. Skin cancer in skin of color. J Am Acad Dermatol. 2006 Nov;55(5):741-60; quiz 761-4. doi: 10.1016/j.jaad.2005.08.063. PMID: 17052479."
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Basal Cell Carcinoma",
+    "displayTitle": "Basal Cell Carcinoma",
+    "body": "<p>Pigmented basal cell carcinoma&nbsp;on the trunk of a black female.</p>",
+    "_id": "60be4a64418dc91c9da548dd",
+    "_parentId": "60be4a64418dc91c9da548d0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/96bb92feff159a167dd88d3312854875a0a06620.jpg",
+      "small": "course/en/assets/96bb92feff159a167dd88d3312854875a0a06620.jpg",
+      "attribution": "Gloster HM Jr, Neal K. Skin cancer in skin of color. J Am Acad Dermatol. 2006 Nov;55(5):741-60; quiz 761-4. doi: 10.1016/j.jaad.2005.08.063. PMID: 17052479."
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Scan this QR code to get more information! ",
+    "displayTitle": "Scan this QR code to get more information! ",
+    "body": "",
+    "_id": "60be4a64418dc91c9da548df",
+    "_parentId": "60be4a64418dc91c9da548d1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fde563c6fc89ba5bd0084efbbc124ce6938f4cd1.png",
+      "small": "course/en/assets/fde563c6fc89ba5bd0084efbbc124ce6938f4cd1.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Training Complete",
+    "displayTitle": "Training Complete",
+    "body": "<p>You have now finished this training module. Please exit this link and return to REDCap for your post-training assessment survey. Thank you!&nbsp;</p>",
+    "_id": "60be4a64418dc91c9da548e0",
+    "_parentId": "60be4a64418dc91c9da548d2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "soft",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Which Skin Cancer...",
+    "displayTitle": "Which Skin Cancer...",
+    "body": "",
+    "_id": "60be4a64418dc91c9da548e1",
+    "_parentId": "60be4a64418dc91c9da548d3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Is the most serious type in the US?",
+        "_options": [
+          {
+            "text": "Basal Cell Carcinoma ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Melanoma",
+            "_isCorrect": true
+          },
+          {
+            "text": "Squamous Cell Carcinoma",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Is the most common type in the US? ",
+        "_options": [
+          {
+            "text": "Basal Cell Carcinoma ",
+            "_isCorrect": true
+          },
+          {
+            "text": "Squamous Cell Carcinoma",
+            "_isCorrect": false
+          },
+          {
+            "text": "Melanoma",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Is the most common type in African Americans?",
+        "_options": [
+          {
+            "text": "Melanoma",
+            "_isCorrect": false
+          },
+          {
+            "text": "Basal Cell Carcinoma",
+            "_isCorrect": false
+          },
+          {
+            "text": "Squamous Cell Carcinoma",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Yes, the most serious type of skin cancer in the US is <u>melanoma</u>. The most common type of skin cancer in the US overall&nbsp;is <u>basal cell carcinoma</u>, whereas the most common type of skin cancer in African Americans is <u>squamous cell carcinoma</u>.</p>",
+      "_incorrect": {
+        "final": "<p>The most serious type of skin cancer in the US is <u>melanoma</u>. The most common type of skin cancer in the US overall&nbsp;is <u>basal cell carcinoma</u>, whereas the most common type of skin cancer in African Americans is <u>squamous cell carcinoma</u>.</p>",
+        "notFinal": "<p>Not quite, try again!&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>The most serious type of skin cancer in the US is <u>melanoma</u>. The most common type of skin cancer in the US overall&nbsp;is <u>basal cell carcinoma</u>, whereas the most common type of skin cancer in African Americans is <u>squamous cell carcinoma</u>.</p>",
+        "notFinal": "<p>Some answers are correct, others are incorrect. Try again!&nbsp;</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Causes of Skin Cancer & How to Protect Against it",
+    "displayTitle": "Causes of Skin Cancer & How to Protect Against it",
+    "body": "",
+    "_id": "60be4a64418dc91c9da548e2",
+    "_parentId": "60be4a64418dc91c9da548d5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/fbd80b945ab533f681482c8c1aad56f719000809.jpg",
+      "alt": "",
+      "attribution": "https://www.skcin.org/skinCancerInformation/solarUVRadiation.htm"
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Main Cause of Melanoma",
+        "_ariaLevel": 0,
+        "body": "<p><u>Unprotected exposure to UV rays</u> is the main cause of melanoma.&nbsp;</p>",
+        "strapline": "Unprotected exposure to UV rays is the main cause of melanoma. ",
+        "_graphic": {
+          "src": "course/en/assets/8c30ef2eca6786ae07c8c9577e5c98f491ecf204.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 5,
+        "_top": 27
+      },
+      {
+        "title": "SPF Required",
+        "_ariaLevel": 0,
+        "body": "<p>The minimum SPF that is recommended to protect against skin cancer-causing UV rays is <u>30</u>!&nbsp;</p>",
+        "strapline": "The minimum SPF that is recommended to protect against skin cancer-causing UV rays is 30! ",
+        "_graphic": {
+          "src": "course/en/assets/e03deeec30afee56ce7500ff80a6f6d397a1ee4d.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 90,
+        "_top": 15
+      },
+      {
+        "title": "Reapply, Reapply, Reapply!",
+        "_ariaLevel": 0,
+        "body": "<p>Sunscreen should be reapplied <u>every 2 hours</u>!&nbsp;</p>",
+        "strapline": "Sunscreen should be reapplied every 2 hours! ",
+        "_graphic": {
+          "src": "course/en/assets/00bde497f12317b1c510032dd7eebdf9a0c277fd.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 55,
+        "_top": 80
+      }
+    ]
+  },
+  {
+    "_component": "slider",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "soft",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is the estimated 5-year survival rate for black patients with melanoma?",
+    "displayTitle": "What is the estimated 5-year survival rate for black patients with melanoma?",
+    "body": "",
+    "_id": "60be4a64418dc91c9da548e3",
+    "_parentId": "60be4a64418dc91c9da548d6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "labelStart": "0%",
+    "labelEnd": "100%",
+    "_scaleStart": 0,
+    "_scaleEnd": 100,
+    "_scaleStep": 1,
+    "_correctAnswer": "",
+    "_correctRange": {
+      "_bottom": 64,
+      "_top": 74
+    },
+    "_showScaleIndicator": true,
+    "_showNumber": true,
+    "_showScale": true,
+    "_showScaleNumbers": false,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Yes! The estimated 5-year survival rate for black patients with melanoma is <u>69%</u>.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>The estimated 5-year survival rate for black patients with melanoma is <u>69%</u>.&nbsp;</p>",
+        "notFinal": "<p>Not quite, keep trying!&nbsp;</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Feedback ",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How to properly check for lesions & advise further care by a doctor ",
+    "displayTitle": "How to properly check for lesions & advise further care by a doctor ",
+    "body": "",
+    "_id": "60be4a64418dc91c9da548e4",
+    "_parentId": "60be4a64418dc91c9da548d4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "When should you get a skin spot checked by the doctor?",
+        "_ariaLevel": 0,
+        "body": "<p>You should get a skin spot checked by the doctor if the size is larger than a pencil eraser!&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/429cf94cd0b7f64e589f4a96b95e4bf871a7b2c0.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "You should get a skin spot checked by the doctor if the size is larger than a pencil eraser! "
+      },
+      {
+        "title": "When is it best to check a client’s hair for melanoma?  ",
+        "_ariaLevel": 0,
+        "body": "<p>The best time to check a client's hair for a skin lesion is when it is wet!&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/2b4b0246e710394d9b561f279d3f32c57e26327e.jpg",
+          "alt": "",
+          "attribution": "Gloster, Hugh. “Skin Cancer & Skin of Color.” skincancer.org, Skin Cancer Foundation, 28 May 2021, www.skincancer.org/skin-cancer-information/skin-cancer-skin-of-color/. "
+        },
+        "strapline": "The best time to check a client's hair for a skin lesion is when it is wet! "
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "References:",
+    "displayTitle": "References:",
+    "body": "<p>https://reliantmedicalgroup.org/medical-services/dermatology/three-most-common-skin-cancers/</p><p>https://sites.google.com/site/palaufauna/workscited&nbsp;</p><p>https://www.clipartkey.com/search/the-end/&nbsp;</p><p>https://www.usdermatologypartners.com/blog/top-5-skin-cancer-symptoms/&nbsp;</p><p>https://www.verywellhealth.com/skin-cancer-treatment-3010859&nbsp;</p><p>https://www.istockphoto.com/illustrations/african-american-barber-shop-illustrations&nbsp;</p><p>https://puredermalabama.com/2017/05/25/skin-cancer-awareness-month/&nbsp;</p><p>https://www.wilmingtonskinsurgerycenter.com/skin-cancer-screenings-treatment/</p><p>https://www.howitworksdaily.com/what-if-we-could-filter-out-all-uv-light/</p><p>https://www.skcin.org/skinCancerInformation/solarUVRadiation.htm</p><p>https://www.skincancer.org/skin-cancer-information/skin-cancer-skin-of-color/&nbsp;</p><p>&nbsp;</p>",
+    "_id": "60be4a64418dc91c9da548e5",
+    "_parentId": "60be4a64418dc91c9da548d7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Squamous Cell Carcinoma ",
+    "displayTitle": "Squamous Cell Carcinoma ",
+    "body": "<p>Squamous cell carcinoma on sun-protected skin of the lower leg of a black male. Courtesy of Carl Washington, MD.</p>",
+    "_id": "60c63ccf418dc91c9da5497a",
+    "_parentId": "60c63cc3418dc91c9da54978",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/858f86327a4fd92da543a1a4e2d9c00387a7e354.jpg",
+      "small": "course/en/assets/858f86327a4fd92da543a1a4e2d9c00387a7e354.jpg",
+      "attribution": "Gloster HM Jr, Neal K. Skin cancer in skin of color. J Am Acad Dermatol. 2006 Nov;55(5):741-60; quiz 761-4. doi: 10.1016/j.jaad.2005.08.063. PMID: 17052479."
+    }
+  }
+]
